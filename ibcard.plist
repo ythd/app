@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/ythd/ythdapp/blob/master/个人名片通.ipa</string>
+                    <string>https://raw.githubusercontent.com/ythd/ythdapp/master/个人名片通.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
