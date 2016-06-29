@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://lifezen.ib2000.net:38080/life_dhyana_service_web/aaa.ipa</string>
+                    <string>http://lifezen.ib2000.net:38080/life_dhyana_service_web/ibcard.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -39,7 +39,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>aaa</string>
+                <string>ibcard</string>
             </dict>
         </dict>
     </array>
