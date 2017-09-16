@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://sample.ib2000.net/casserver/ibs/icon@2x.png</string>
+                    <string>http://139.219.98.182/ibchat-server/image/logo/icon@2x.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://sample.ib2000.net/casserver/ibs/icon.png</string>
+                    <string>http://139.219.98.182/ibchat-server/image/logo/icon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
