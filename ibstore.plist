@@ -35,7 +35,7 @@
                 <key>bundle-identifier</key>
                 <string>com.mskj.ibstore</string>
                 <key>bundle-version</key>
-                <string>0.0.1</string>
+                <string>0.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
